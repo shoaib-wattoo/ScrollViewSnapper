@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CardSelect/Examples Scene/SimpleCurvedDeck.unity
+    guid: e22606bf98493db4686771a323b0e753
+  - enabled: 1
+    path: Assets/CardSelect/Examples Scene/RingCardDeck.unity
+    guid: 96ca827f9bbeb204ba598bd673df21b7
+  - enabled: 1
+    path: Assets/CardSelect/Examples Scene/PieCardDeck.unity
+    guid: faa939ad7d02f714b9f12bb81958cdb2
+  - enabled: 1
+    path: Assets/CardSelect/Examples Scene/Hero Selection Sample.unity
+    guid: 30bdf2b1f9df02444a9aef46af0d1d37
